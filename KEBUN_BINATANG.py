@@ -13,4 +13,4 @@ class KebunBinatang:
             for hewan in kandang.hewan_list:
                 hewan.makan()
                 if isinstance(hewan, HewanTerbang):
-                    hewan.terbang()5
+                    hewan.terbang()
