@@ -27,4 +27,4 @@ def main():
     petugas.bersihkan(kandang_ikan)
 
 if __name__ == "__main__":
-    main()
+    main()    
