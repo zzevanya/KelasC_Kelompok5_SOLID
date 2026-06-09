@@ -2,7 +2,7 @@ from BINATANG import Burung, Ikan
 
 class Kandang:
     
-    def _init_(self, nama_kandang):
+    def __init__(self, nama_kandang):
         self.nama_kandang = nama_kandang
         self.hewan_list = []
     
